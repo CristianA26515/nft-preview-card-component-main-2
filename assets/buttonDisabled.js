@@ -11,6 +11,7 @@ export function buttonDisabled(quantity){
         }else{
             btnAddCard.removeAttribute("disabled")
             btnRemoveCard.removeAttribute("disabled","true")
+            
         }
 
     }

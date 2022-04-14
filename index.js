@@ -17,6 +17,7 @@ createButton("Remove Card", "removeCard")
 for (var i = 0; i < state.quantity; i++) {
     createCard()
  }
+ 
 buttonDisabled(state.quantity)
 
 const addCard=document.querySelector("#addCard")

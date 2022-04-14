@@ -67,5 +67,4 @@ export function createCard(){
    sppan.textContent='Jules Wyvern'
    sppan.className='name-creador'
    textcreador.appendChild(sppan)
- 
 }
